@@ -1,0 +1,6 @@
+.DS_Store
+.idea/*
+NumericalIntegration.*
+out/
+src/.DS_Store
+target
